@@ -11,7 +11,7 @@ function App() {
       
         <h1>Abdullah</h1>
         <h1>Abdullah</h1>
-        <h1>Abdullah</h1>
+       
     </>
   )
 }
